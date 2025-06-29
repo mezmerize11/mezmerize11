@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mezmerize11
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Javascript
 
 <!---
 mezmerize11/mezmerize11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
